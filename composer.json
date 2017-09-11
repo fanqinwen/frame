@@ -1,0 +1,14 @@
+{
+    "name": "fanqinwen/frame",
+    "description": "composer frame",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "范钦文",
+            "email": "312268646@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
